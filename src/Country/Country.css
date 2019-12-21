@@ -1,0 +1,19 @@
+/*h1, h2, h3 {*/
+/*    color: darkorchid;*/
+/*}*/
+
+.title {
+    /*color: #2ba5cc;*/
+}
+
+.country {
+    flex-direction: row; /* make main axis horizontal (default setting) */
+    justify-content: center; /* center items horizontally, in this case */
+    align-items: center;
+    text-align: center;
+    width: 15vw;
+    color: white;
+    margin: 1vw;
+    padding: 1vw;
+    background-color: #650035;
+}
